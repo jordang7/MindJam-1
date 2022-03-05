@@ -39,7 +39,7 @@ export const Games = () => {
           {crosswordList.map((puzzle, i) => (
             <GridItem>
               <Button>
-                <Link href={`/crossword/${i}`}>{puzzle.title}</Link>
+                <Link href={`/#/crossword/${i}`}>{puzzle.title}</Link>
               </Button>
             </GridItem>
           ))}

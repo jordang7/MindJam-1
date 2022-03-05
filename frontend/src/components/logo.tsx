@@ -10,7 +10,7 @@ export const Logo = () => {
         fontSize={20}
         letterSpacing="1.5px"
       >
-        <Link href="/">Logo</Link>
+        <Link href="/#/">Logo</Link>
       </Heading>
     </Flex>
   );

@@ -51,7 +51,7 @@ export const Intro = () => {
             textDecoration: "none",
             bg: "whiteAlpha.900",
           }}
-          href={"/games"}
+          href={"/#/games"}
         >
           Start playing now!
         </Link>
